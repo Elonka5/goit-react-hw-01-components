@@ -1,31 +1,31 @@
 [
   {
-    "avatar": "https://cdn-icons-png.flaticon.com/512/1998/1998592.png",
-    "name": "Mango",
+    "avatar": "https://img.icons8.com/?size=512&id=hqGtmpXAUs4x&format=png",
+    "name": "Mando",
     "isOnline": true,
     "id": 1812
   },
   {
-    "avatar": "https://cdn-icons-png.flaticon.com/512/616/616438.png",
-    "name": "Kiwi",
+    "avatar": "https://img.icons8.com/?size=512&id=31823&format=png",
+    "name": "C-3PO",
     "isOnline": false,
     "id": 1137
   },
   {
-    "avatar": "https://cdn-icons-png.flaticon.com/512/1623/1623681.png",
-    "name": "Ajax",
+    "avatar": "https://img.icons8.com/?size=512&id=OJBTPpbAcbJT&format=png",
+    "name": "R2-D2",
     "isOnline": true,
     "id": 1213
   },
   {
-    "avatar": "https://cdn-icons-png.flaticon.com/512/2977/2977285.png",
-    "name": "Jay",
+    "avatar": "https://img.icons8.com/?size=512&id=68568&format=png",
+    "name": "Princess Leia",
     "isOnline": true,
     "id": 1714
   },
   {
-    "avatar": "https://cdn-icons-png.flaticon.com/512/1998/1998749.png",
-    "name": "Poly",
+    "avatar": "https://img.icons8.com/?size=512&id=89771&format=png",
+    "name": "Chewbacca",
     "isOnline": false,
     "id": 1284
   }
